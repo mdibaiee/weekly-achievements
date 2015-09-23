@@ -5,11 +5,11 @@ What is this?
 ------------
 Every week, share your achievements with the community, we can learn a lot and motivate each other!
 
-To start, fork this repository or create your own.
+To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-template) repository or create your own.
 
 You are free to put all kinds of achievements here.
 
-Week 4 of September, 2014
+Week 4 of September, 2015
 -------------------------
 
 * Made [pack](https://github.com/mdibaiee/pack), a simple self-hosted cloud-storage using Ruby on Rails. My reason was to learn Ruby on Rails
