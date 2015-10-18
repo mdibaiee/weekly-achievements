@@ -9,6 +9,14 @@ To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-te
 
 You are free to put all kinds of achievements here.
 
+Week 2 of October, 2015
+-----------------------
+* Created a [pull-request](https://github.com/hapijs/joi/pull/735) on [joi](https://github.com/hapijs/joi)
+* Started [bolt](https://github.com/mdibaiee/bolt); It's still under development, you will know once it's done
+* Read a few chapters of [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
+* Joined [Pichak](https://pichak.co)
+* I'm starting to translate a journal (not all of it) to Persian, it's most probably going to be Haykin's Neural Networks and Learning Machine 3rd, I read parts of it
+
 Week 5 of September, 2015
 -------------------------
 * Made [snaphash](https://github.com/mdibaiee/snaphash), the idea hit me when I was waking up, it was actually weird, I was half-conscious, then this idea hit my head, I note it somewhere to avoid forgetting it and now, here it is!
