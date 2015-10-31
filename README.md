@@ -9,6 +9,14 @@ To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-te
 
 You are free to put all kinds of achievements here.
 
+Week 3 of October, 2015
+-----------------------
+* Created a Slack Bot API node.js module focusing on simplicity and consistency called [slackbot-api](https://github.com/mdibaiee/slackbot-api)
+* Worked hard on [bolt](https://github.com/mdibaiee/bolt)
+* Published [Hawk](https://marketplace.firefox.com/app/hawk/) to Firefox Marketplace, got good feedback!
+* Worked on supporting Archive creation/extraction of Hawk and implementing an FTP Browser
+* Read [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
+
 Week 2 of October, 2015
 -----------------------
 * Created a [pull-request](https://github.com/hapijs/joi/pull/735) on [joi](https://github.com/hapijs/joi)
