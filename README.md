@@ -9,6 +9,15 @@ To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-te
 
 You are free to put all kinds of achievements here.
 
+Week 4 of October, 2015
+------------------------
+* Progressed with [bolt](https://github.com/mdibaiee/bolt), sadly upgrading to Babel6 broke a lot of things (classes, decorators, etc)
+* Scratched Rust at surface, created a webserver using [hyper](https://github.com/hyperium/hyper), i like it.
+* Published [Open-source: The Good, The Bad and The Ugly](http://dibaiee.ir/open-source-good-bad-ugly/) on my blog.
+* Fixed a minor issue on [node-telegram-api](https://github.com/mdibaiee/node-telegram-api/issues/12)
+* Read [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), this has become a habit
+* Finished archive extraction/creation support for [Hawk](https://github.com/mdibaiee/Hawk)
+
 Week 3 of October, 2015
 -----------------------
 * Created a Slack Bot API node.js module focusing on simplicity and consistency called [slackbot-api](https://github.com/mdibaiee/slackbot-api)
