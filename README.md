@@ -9,7 +9,7 @@ To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-te
 
 You are free to put all kinds of achievements here.
 
-Week 3 of November, 2015
+Week 4 of November, 2015
 ------------------------
 * Did an interview with [FirefoxOSCentral](http://firefoxoscentral.com/2015/11/meet-the-devs-developer-interview-mahdi-debaiee/)
 * Reading [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/) for the second time, very well explained.
