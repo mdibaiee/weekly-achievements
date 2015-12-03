@@ -11,6 +11,14 @@ You are free to put all kinds of achievements here.
 
 Week 4 of November, 2015
 ------------------------
+* Published the simple [button-progress](https://github.com/mdibaiee/button-progress) I was using in a project, I thought I'd publish it
+* Fixed some bugs on [bolt-newrelic](https://github.com/mdibaiee/bolt-newrelic)
+* Also had some progress on [bolt](https://github.com/mdibaiee/bolt)
+* Almost finished reading [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/), still haven't finished the _Machine Learning_ section
+* Did some fun experiments with [synaptic](https://github.com/cazala/synaptic), it's fun! I'm going to publish if I create anything cool with it
+
+Week 3 of November, 2015
+------------------------
 * Did an interview with [FirefoxOSCentral](http://firefoxoscentral.com/2015/11/meet-the-devs-developer-interview-mahdi-debaiee/)
 * Reading [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/) for the second time, very well explained.
 * Had a productive week at company, finished important tasks
