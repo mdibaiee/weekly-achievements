@@ -9,6 +9,12 @@ To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-te
 
 You are free to put all kinds of achievements here.
 
+Week 1 of December, 2015
+------------------------
+* Created [node-games](https://github.com/mdibaiee/node-games), I was bored so I thought I'd create oldschool games with Node, in console.
+* Read [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+* Finished reading [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+
 Week 4 of November, 2015
 ------------------------
 * Published the simple [button-progress](https://github.com/mdibaiee/button-progress) I was using in a project, I thought I'd publish it
