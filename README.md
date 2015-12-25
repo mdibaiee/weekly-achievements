@@ -9,6 +9,12 @@ To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-te
 
 You are free to put all kinds of achievements here.
 
+Week 2 of December, 2015
+------------------------
+* Added tanks to [node-games](https://github.com/mdibaiee/node-games).
+* Updated [bolt-newrelic](https://github.com/mdibaiee/bolt-newrelic), added ability to monitor application's apdex/error _spikes_, not only thresholds.
+* Read a few chapters of [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), it's getting more interesting over time
+
 Week 1 of December, 2015
 ------------------------
 * Created [node-games](https://github.com/mdibaiee/node-games), I was bored so I thought I'd create oldschool games with Node, in console.
